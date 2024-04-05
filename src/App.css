@@ -1,0 +1,30 @@
+.app-container {
+  width: 100%;
+  max-width: 800px;
+  background: #d3cbcb;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.app-header {
+  background: linear-gradient(135deg, #8869e6 0%, #073b38 100%);
+  color: #dccfcf;
+  padding: 25px;
+  text-align: center;
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.app-header p {
+  margin: 5px 0 0;
+  opacity: 0.9;
+}
+
+.app-main {
+  padding: 25px;
+}

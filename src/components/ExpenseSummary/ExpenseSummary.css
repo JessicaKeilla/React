@@ -1,0 +1,25 @@
+.summary-card {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+    text-align: center;
+}
+
+.summary-card h2 {
+    margin-top: 0;
+    color: #6e45e2;
+    font-size: 1.5rem;
+}
+
+.summary-total {
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin: 10px 0;
+    color: #333;
+}
+
+.summary-count {
+    color: #666;
+}
